@@ -1,2 +1,2 @@
-# super-garbanzo
+# myBlog
 个人博客
